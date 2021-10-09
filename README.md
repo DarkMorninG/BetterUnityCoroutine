@@ -4,7 +4,7 @@ Atempting to write cleaner Coroutines
 Since Coroutines in Unity can be a bit of a pain in the a** sometimes
 while also repeating code all over your project
 
-I searched for a better Solution and stumbled upon a quite old Unity Taskmanager
+I searched for a better Solution and stumbled upon a quite old Unity Taskmanager from Ken Rockot
 After a bit of rewriting and some addition im comfortable with sharing it
 
 # Usage
