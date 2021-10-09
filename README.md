@@ -88,7 +88,6 @@ public void SomeRuntime() {
 ```c#
 public bool StartTheCoroutine = false;
 public void SomeRuntime() {
-  float timeUntilExecution = 2f;
   AsyncRuntime.WaitUntil(() => Startit, doSomethingAfterCondition());
 }
 ```
